@@ -7,7 +7,7 @@ Hi! I'm Yashu, a 3rd-year Computer Science student passionate about data, ML, an
 - 🤖 Machine Learning Mini-Projects
 - 🔍 Exploratory Data Analysis (EDA)
 
-Stay tuned as I learn and build 🚀## Hi there 👋
+Stay tuned as I learn and build 🚀
 
 <!--
 **yasaswini-mandava/yasaswini-mandava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
