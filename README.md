@@ -1,13 +1,13 @@
-# 👩‍💻 Yasaswini's Data Science Journey
+
 
 Hi! I'm Yashu, a 3rd-year Computer Science student passionate about data, ML, and solving real-world problems. This repo contains:
 
-- 🐍 Python Practice
-- 📊 Data Cleaning & Visualization
-- 🤖 Machine Learning Mini-Projects
-- 🔍 Exploratory Data Analysis (EDA)
+- Python Practice
+- Data Cleaning & Visualization
+- Machine Learning Mini-Projects
+- Exploratory Data Analysis (EDA)
 
-Stay tuned as I learn and build 🚀
+Stay tuned as I learn and build 
 
 <!--
 **yasaswini-mandava/yasaswini-mandava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
